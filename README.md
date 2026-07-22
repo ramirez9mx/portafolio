@@ -26,11 +26,3 @@ Puedes ver el resultado de este proyecto diseñado y desplegado en el siguiente 
 👉 **[Ver Sitio Web en Vivo](TU_ENLACE_DE_GITHUB_PAGES_AQUÍ)**
 
 ---
-
-## 🛠️ Instalación y Uso Local
-
-Si deseas clonar este proyecto y ejecutarlo en tu máquina local, sigue estos pasos:
-
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
